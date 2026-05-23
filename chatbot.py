@@ -1,7 +1,7 @@
 import gradio as gr
 from groq import Groq
 
-client = Groq(api_key="PASTE_YOUR_GROQ_KEY")
+client = Groq(groq_key="PASTE_YOUR_GROQ_KEY")
 
 def chatbot(You):
     response = client.chat.completions.create(
