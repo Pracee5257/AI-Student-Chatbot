@@ -4,7 +4,7 @@
 <h2><u><b>🔷FEATURES</b></u></h2>
 •	AI powered responses<br>
 •	Interactive chats<br>
-•	Lightweight and swift handling
+•	Lightweight and swift handling<br>
 • User friendly interface 
 
 <h2><u><b>🔷TECHNOLOGY USED</b></u></h2>
